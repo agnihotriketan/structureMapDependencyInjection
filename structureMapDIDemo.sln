@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structureMapDIDemo", "structureMapDIDemo\structureMapDIDemo.csproj", "{E37F7C48-97E3-4021-B8EE-2F276F5C6FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structureMapDIDemo.Tests", "structureMapDIDemo.Tests\structureMapDIDemo.Tests.csproj", "{35EA9CF2-F9E4-4A00-815B-FC283AF6107E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Prod|Any CPU = Prod|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Stage|Any CPU = Stage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37F7C48-97E3-4021-B8EE-2F276F5C6FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37F7C48-97E3-4021-B8EE-2F276F5C6FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37F7C48-97E3-4021-B8EE-2F276F5C6FA7}.Prod|Any CPU.ActiveCfg = Prod|Any CPU
+		{E37F7C48-97E3-4021-B8EE-2F276F5C6FA7}.Prod|Any CPU.Build.0 = Prod|Any CPU
+		{E37F7C48-97E3-4021-B8EE-2F276F5C6FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37F7C48-97E3-4021-B8EE-2F276F5C6FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37F7C48-97E3-4021-B8EE-2F276F5C6FA7}.Stage|Any CPU.ActiveCfg = Stage|Any CPU
+		{E37F7C48-97E3-4021-B8EE-2F276F5C6FA7}.Stage|Any CPU.Build.0 = Stage|Any CPU
+		{35EA9CF2-F9E4-4A00-815B-FC283AF6107E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EA9CF2-F9E4-4A00-815B-FC283AF6107E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EA9CF2-F9E4-4A00-815B-FC283AF6107E}.Prod|Any CPU.ActiveCfg = Prod|Any CPU
+		{35EA9CF2-F9E4-4A00-815B-FC283AF6107E}.Prod|Any CPU.Build.0 = Prod|Any CPU
+		{35EA9CF2-F9E4-4A00-815B-FC283AF6107E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EA9CF2-F9E4-4A00-815B-FC283AF6107E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EA9CF2-F9E4-4A00-815B-FC283AF6107E}.Stage|Any CPU.ActiveCfg = Stage|Any CPU
+		{35EA9CF2-F9E4-4A00-815B-FC283AF6107E}.Stage|Any CPU.Build.0 = Stage|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
